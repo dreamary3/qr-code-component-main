@@ -31,5 +31,5 @@ I learned about the concepts of "rem" and "px" and when to apply them. Rem value
 ## Author
 
 - Website - [Meryem Ketishvili](https://www.twitter.com/dreamary37)
-- Frontend Mentor - [@ydreamary3](https://www.frontendmentor.io/profile/dreamary3)
+- Frontend Mentor - [@dreamary3](https://www.frontendmentor.io/profile/dreamary3)
 - Twitter - [@dreamary37](https://www.twitter.com/dreamary37)
